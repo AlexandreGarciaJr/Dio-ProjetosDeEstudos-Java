@@ -1,4 +1,4 @@
-### Olá, sou Alexandre Garcia 👋
+### Estudos em Java 👋
 
 - #### Repositório de exercícios e projetos dos primeiros estudos em Java
 
